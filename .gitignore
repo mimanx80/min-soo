@@ -1,0 +1,14 @@
+# 데이터 파일 — GitHub에 올리지 않음
+data/raw/
+data/processed/
+exports/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+raw.zip
+*.local.json
